@@ -1,0 +1,9 @@
+# 忽略所有的历史记录文件
+*_history.json
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略环境变量文件（如果你用了 .env）
+.env
